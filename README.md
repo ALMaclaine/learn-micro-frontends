@@ -16,3 +16,4 @@
 - https://hackernoon.com/micro-frontends-in-2023-the-complete-guide
 - https://ionic.io/blog/ionics-2023-micro-frontends-summit-recap
 - https://module-federation.github.io/
+- https://www.adro.codes/vault/pub-sub-micro-frontends
