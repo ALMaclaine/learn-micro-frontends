@@ -11,3 +11,7 @@
 - https://cogent.co/blog/deploying-micro-frontends-with-module-federation-and-nextjs/
 - https://okhivrych.io/nextjs-with-module-federation-the-future-of-micro-frontends
 - https://medium.com/a-layman/build-micro-frontends-in-nextjs-and-reactjs-with-webpack-5-module-federation-e142ad76f48c
+- https://dev.to/devsmitra/the-complete-guide-to-micro-frontends-for-2023-203c
+- https://blog.bitsrc.io/scaling-frontend-applications-in-2023-e455aceff931
+- https://hackernoon.com/micro-frontends-in-2023-the-complete-guide
+- https://ionic.io/blog/ionics-2023-micro-frontends-summit-recap
