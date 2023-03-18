@@ -15,3 +15,4 @@
 - https://blog.bitsrc.io/scaling-frontend-applications-in-2023-e455aceff931
 - https://hackernoon.com/micro-frontends-in-2023-the-complete-guide
 - https://ionic.io/blog/ionics-2023-micro-frontends-summit-recap
+- https://module-federation.github.io/
