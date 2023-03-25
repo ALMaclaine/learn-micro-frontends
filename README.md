@@ -17,3 +17,4 @@
 - https://ionic.io/blog/ionics-2023-micro-frontends-summit-recap
 - https://module-federation.github.io/
 - https://www.adro.codes/vault/pub-sub-micro-frontends
+- youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1&index=2
