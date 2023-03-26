@@ -18,3 +18,11 @@
 - https://module-federation.github.io/
 - https://www.adro.codes/vault/pub-sub-micro-frontends
 - youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1&index=2
+- https://levelup.gitconnected.com/micro-frontends-with-aws-amplify-50c2e2dc4222
+- https://javascript.plainenglish.io/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a
+- https://aws.amazon.com/blogs/architecture/micro-frontend-architectures-on-aws/
+- https://github.com/aws-amplify/amplify-hosting/issues/1262
+- https://alatech.medium.com/micro-frontends-with-aws-amplify-part-3-4eb5dcfdb856
+- https://alatech.medium.com/micro-frontends-with-aws-amplify-part-2-f69acf518287
+- https://alatech.medium.com/micro-frontends-with-aws-amplify-part-2-f69acf518287
+- https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/
