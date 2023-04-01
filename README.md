@@ -29,3 +29,4 @@
 - https://dev.to/cherypick/micro-frontends-communication-approaches-1n93
 - https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai
 - https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai
+- https://blog.bitsrc.io/creating-seamless-user-experiences-a-comprehensive-guide-to-micro-frontend-architectural-patterns-9118a70386b7
