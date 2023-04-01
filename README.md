@@ -26,3 +26,4 @@
 - https://alatech.medium.com/micro-frontends-with-aws-amplify-part-2-f69acf518287
 - https://alatech.medium.com/micro-frontends-with-aws-amplify-part-2-f69acf518287
 - https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/
+- https://dev.to/cherypick/micro-frontends-communication-approaches-1n93
