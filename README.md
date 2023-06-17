@@ -7,6 +7,7 @@
 - https://valor-software.com/articles/nx-next-js-and-module-federation
 - https://www.youtube.com/watch?v=pU1gXA0rfwc
 - https://micro-frontends.org/
+- https://microfrontend.dev/
 - https://valor-software.com/articles/nx-next-js-and-module-federation
 - https://cogent.co/blog/deploying-micro-frontends-with-module-federation-and-nextjs/
 - https://okhivrych.io/nextjs-with-module-federation-the-future-of-micro-frontends
